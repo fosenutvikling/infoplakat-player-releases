@@ -1,8 +1,8 @@
-version: 1.0.0
+version: 1.1.0
 files:
-  - url: Infoplakat Player Setup 1.0.0.exe
-    sha512: kQ2GLLD8cZQHjWhlHnsBG32NdLFEGD76HTlM3hX3oxnczykAe60b+5CorLlsx1IxRYQ6PoErFO4PYcooQSqfUA==
-    size: 70824865
-path: Infoplakat Player Setup 1.0.0.exe
-sha512: kQ2GLLD8cZQHjWhlHnsBG32NdLFEGD76HTlM3hX3oxnczykAe60b+5CorLlsx1IxRYQ6PoErFO4PYcooQSqfUA==
-releaseDate: '2025-12-12T22:17:49.974Z'
+  - url: Infoplakat Player Setup 1.1.0.exe
+    sha512: mVBep9kFHQFdt0dFV//M9N8vb33O50cwzbHEzy9/vkAI2Bv39cqyPqPmoRezFZT7iE3Rh4S1O1bIvGJJ2lcwfA==
+    size: 70891814
+path: Infoplakat Player Setup 1.1.0.exe
+sha512: mVBep9kFHQFdt0dFV//M9N8vb33O50cwzbHEzy9/vkAI2Bv39cqyPqPmoRezFZT7iE3Rh4S1O1bIvGJJ2lcwfA==
+releaseDate: '2025-12-17T22:24:53.411Z'
